@@ -1,0 +1,14 @@
+layout_spectrum: 0.224073268705979
+typography_spectrum: 0.8187674621585757
+color:
+  brandStrength: 0.23417988372966647
+  lightness: 0.43000252125784755
+  saturation: 0.8323783043306321
+  rhythmicContrast: 0.6942860335111618
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: Rain Light Fade
