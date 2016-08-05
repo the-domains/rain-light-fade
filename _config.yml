@@ -1,14 +1,26 @@
-layout_spectrum: 0.224073268705979
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8187674621585757
 color:
-  brandStrength: 0.23417988372966647
-  lightness: 0.43000252125784755
-  saturation: 0.8323783043306321
-  rhythmicContrast: 0.6942860335111618
+  saturation: 0.235768
+  brandStrength: 0.2341798837296665
+  lightness: 0.4300025
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  rhythmicContrast: 0.694286
+layout_spectrum: 0.224073268705979
 name: Rain Light Fade
