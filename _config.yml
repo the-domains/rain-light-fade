@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8187674621585757
 color:
   saturation: 0.235768
   brandStrength: 0.2341798837296665
@@ -22,5 +21,6 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   rhythmicContrast: 0.694286
-layout_spectrum: 0.224073268705979
+typography_spectrum: 0.8187674621585757
+layout_spectrum: 0.2443609
 name: Rain Light Fade
