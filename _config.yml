@@ -22,7 +22,7 @@ color:
     - '#595B5A'
     - '#C1BFB3'
   rhythmicContrast: 0.694286
-typography_spectrum: 0.8187674621585757
+typography_spectrum: 0.1519871
 description: Rock n' Roll from Seattle
 navigation:
   - name: About Us
@@ -37,5 +37,5 @@ navigation:
   - name: Press
     id: 964d6c8c-ba1b-4e03-a0ed-d4757d5b2383
     type: content
-layout_spectrum: 0.2443609
+layout_spectrum: 0.5719656
 name: Rain Light Fade
