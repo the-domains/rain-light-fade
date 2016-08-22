@@ -4,19 +4,27 @@ author:
     url: 'http://www.youtube.com/user/rainlightfade'
     avatar:
       src: >-
+        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a77cb773f731256bc22ab9953bf9f37d/noop.jpg?input=https%3A%2F%2Fyt3.ggpht.com%2F-KMKRb6cZ2FI%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FOz3dXvFlZAg%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg
+      original: >-
         https://yt3.ggpht.com/-KMKRb6cZ2FI/AAAAAAAAAAI/AAAAAAAAAAA/Oz3dXvFlZAg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
       width: 900
       height: 900
       colors:
-        - - 7
-          - 7
-          - 7
-        - - 138
-          - 138
-          - 138
-        - - 77
-          - 77
-          - 77
+        - - 0
+          - 0
+          - 0
+        - - 140
+          - 140
+          - 140
+        - - 79
+          - 79
+          - 79
+        - - 47
+          - 47
+          - 47
+        - - 116
+          - 116
+          - 116
 related: []
 publisher:
   url: 'http://youtube.com'
@@ -67,16 +75,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/rainlightfade'
 title: Rain Light Fade
-datePublished: '2016-08-22T20:54:54.177Z'
-dateModified: '2016-08-22T20:54:43.086Z'
+datePublished: '2016-08-22T20:55:36.600Z'
+dateModified: '2016-08-22T20:55:36.027Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-rain-light-fade.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: rain-light-fade/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
