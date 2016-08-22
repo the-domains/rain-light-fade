@@ -51,17 +51,14 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: >-
-  https://soundcloud.com/rain-light-fade-915793008/sets/some-select-songs-from-our-eps
 title: The Greatest Hits by Rain Light Fade
-datePublished: '2016-08-22T20:43:12.022Z'
-dateModified: '2016-08-22T20:43:07.335Z'
+datePublished: '2016-08-22T20:53:32.784Z'
+dateModified: '2016-08-22T20:53:32.256Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-22-the-greatest-hits-by-rain-light-fade.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-greatest-hits-by-rain-light-fade/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
