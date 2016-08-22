@@ -1,19 +1,22 @@
 ---
-description: Dane | Vocals
-dateModified: '2016-08-22T20:33:36.864Z'
-datePublished: '2016-08-22T20:33:44.751Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-22T20:35:58.892Z'
 sourcePath: _posts/2016-08-22-dane-or-vocals.md
+author: []
+via: {}
+dateModified: '2016-08-22T20:35:58.011Z'
+title: ''
+publisher: {}
+description: About Us
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+About Us
+![Steve | Ian | Dane | Ira | Mike](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39c4958-f03b-4251-ab0f-3f71c234da73.jpg)
+
 Dane | Vocals
 
 Dane is a lover of drama. Aside from music and acting, he also loves being a husband and a dad, as well as rain forests, Ireland, water, and naturalistic holograms. His current favorite album is Nine Inch Nails', "Hesitation Marks." 
