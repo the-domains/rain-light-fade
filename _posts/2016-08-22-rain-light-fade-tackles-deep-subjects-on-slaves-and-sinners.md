@@ -29,20 +29,17 @@ description: >-
   so often refuses to acknowledge that it's even happening."
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.northwestmusicscene.net/rain-light-fade-tackles-deep-subjects-on-slaves-and-sinners/
 title: >-
   Rain Light Fade Tackles Deep Subjects on Slaves and Sinners - NorthWest Music
   Scene
-datePublished: '2016-08-22T20:51:54.630Z'
-dateModified: '2016-08-22T20:51:48.527Z'
+datePublished: '2016-08-22T20:56:07.886Z'
+dateModified: '2016-08-22T20:56:07.282Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-22-rain-light-fade-tackles-deep-subjects-on-slaves-and-sinners.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: rain-light-fade-tackles-deep-subjects-on-slaves-and-sinners/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
