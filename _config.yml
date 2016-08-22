@@ -22,6 +22,9 @@ navigation:
   - name: Videos
     id: dfa8fe9a-aa27-401c-b240-a4a716fb7041
     type: content
+  - name: Press
+    id: 964d6c8c-ba1b-4e03-a0ed-d4757d5b2383
+    type: content
 collections:
   - index:
       path: /
