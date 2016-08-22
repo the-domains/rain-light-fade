@@ -19,6 +19,9 @@ navigation:
   - name: Music
     id: 2c0df73a-88b1-4aea-b574-20b765419260
     type: content
+  - name: Videos
+    id: dfa8fe9a-aa27-401c-b240-a4a716fb7041
+    type: content
 collections:
   - index:
       path: /
