@@ -13,14 +13,14 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.235768
-  brandStrength: 0.4677766
+  brandStrength: 1
   lightness: 0.4300025
   brandColors:
-    - '#010101'
-    - '#363837'
-    - '#919191'
-    - '#595B5A'
-    - '#C1BFB3'
+    - '#030303'
+    - '#2F2F2F'
+    - '#FFFFFF'
+    - '#535353'
+    - '#8B8B8B'
   rhythmicContrast: 0.694286
 typography_spectrum: 0.1519871
 description: Rock n' Roll from Seattle
