@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 0.694286
 layout_spectrum: 0.2443609
 name: Rain Light Fade
+navigation:
+  - name: About Us
+    id: a3f7ff0c-d560-4926-8831-a227ec6a0d2d
+    type: content
 collections:
   - index:
       path: /
