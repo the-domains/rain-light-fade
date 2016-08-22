@@ -1,17 +1,29 @@
-typography_spectrum: 0.8187674621585757
+title: Heavy | Dark | Beautiful
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.235768
-  brandStrength: 0.2341798837296665
+  brandStrength: 0.4677766
   lightness: 0.4300025
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#010101'
+    - '#363837'
+    - '#919191'
+    - '#595B5A'
+    - '#C1BFB3'
   rhythmicContrast: 0.694286
-layout_spectrum: 0.2443609
-name: Rain Light Fade
+typography_spectrum: 0.8187674621585757
+description: Rock n' Roll from Seattle
 navigation:
   - name: About Us
     id: a3f7ff0c-d560-4926-8831-a227ec6a0d2d
@@ -25,17 +37,5 @@ navigation:
   - name: Press
     id: 964d6c8c-ba1b-4e03-a0ed-d4757d5b2383
     type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Heavy | Dark | Beautiful
-description: Rock n' Roll from Seattle
+layout_spectrum: 0.2443609
+name: Rain Light Fade
